@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img src = "https://github-profile-trophy.vercel.app/?username=aliujia&title=Commits,Repositories,Stars,Issues,PullRequest,Review">
-
 <img src = "https://github-readme-stats.vercel.app/api?username=aliujia&show_icons=true&theme=radical">
 
 <!--
