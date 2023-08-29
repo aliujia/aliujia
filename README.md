@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src = "https://github-readme-stats.vercel.app/api?username=aliujia&show_icons=true&theme=radical">
 
-### Snake eating my contributions graph
+### Snake is eating my contributions graph
 ![Contribution Grid Snake](https://raw.githubusercontent.com/aliujia/aliujia/output/github-contribution-grid-snake-dark.svg)
 
 
