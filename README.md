@@ -2,11 +2,11 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=aliujia&show_icons=true&theme=radical">
 
 ### Snake eating my contributions graph
-<picture>
-  <source media = "(prefers-color-scheme:dark)" srcset = "<https://raw.githubusercontent.com/aliujia/aliujia/output/github-contribution-grid-snake-dark.svg>"/>
-  <source media = "(prefers-color-scheme:light)" srcset = "<https://raw.githubusercontent.com/aliujia/aliujia/output/github-contribution-grid-snake.svg>"/>
-  <img alt = "???" src = "<https://raw.githubusercontent.com/aliujia/aliujia/output/github-contribution-grid-snake.svg>"/>
-</picture>
+![Contribution Grid Snake](https://raw.githubusercontent.com/aliujia/aliujia/output/github-contribution-grid-snake.svg)
+
+![Contribution Grid Snake](https://raw.githubusercontent.com/aliujia/aliujia/output/github-contribution-grid-snake-dark.svg)
+
+
 
 <!--
 **aliujia/aliujia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
